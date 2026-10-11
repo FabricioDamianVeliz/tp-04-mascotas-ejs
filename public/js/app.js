@@ -1,0 +1,1 @@
+console.log("La aplicación de mascotas en adopción se ha cargado correctamente.");

@@ -1,0 +1,11 @@
+body { font-family: Arial, sans-serif; background-color: #f4f4f9; color: #333; margin: 0; }
+.contenedor { max-width: 800px; margin: 0 auto; padding: 20px; }
+nav { background-color: #007BFF; padding: 10px; color: white; }
+nav a { color: white; text-decoration: none; margin-right: 15px; font-weight: bold; }
+.tarjeta { background: white; padding: 15px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 15px; }
+.grilla { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px; }
+.btn { display: inline-block; padding: 10px 15px; background: #28a745; color: white; text-decoration: none; border-radius: 5px; text-align: center; border: none; cursor: pointer; }
+.alerta { background-color: #f8d7da; color: #721c24; padding: 10px; border-radius: 5px; margin-bottom: 15px; border: 1px solid #f5c6cb; }
+img { max-width: 100%; height: auto; border-radius: 5px; }
+input, select, textarea { width: 100%; padding: 8px; margin: 5px 0 15px 0; border: 1px solid #ccc; border-radius: 4px; }
+input:focus, select:focus, textarea:focus { border-color: #007BFF; outline: none; box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); }

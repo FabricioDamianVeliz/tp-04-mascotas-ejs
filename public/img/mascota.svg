@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="#007BFF" width="100%" height="100%">
+  <!-- Dedito izquierdo exterior -->
+  <path d="M22,55 C15,55 11,46 16,39 C21,32 29,36 29,46 C29,52 26,55 22,55 Z" />
+  
+  <!-- Dedito izquierdo interior -->
+  <path d="M38,39 C33,39 29,26 34,17 C39,8 49,15 47,28 C46,35 43,39 38,39 Z" />
+  
+  <!-- Dedito derecho interior -->
+  <path d="M62,39 C57,39 54,35 53,28 C51,15 61,8 66,17 C71,26 67,39 62,39 Z" />
+  
+  <!-- Dedito derecho exterior -->
+  <path d="M78,55 C74,55 71,52 71,46 C71,36 79,32 84,39 C89,46 85,55 78,55 Z" />
+  
+  <!-- Almohadilla principal (gran base abajo) -->
+  <path d="M50,47 C65,47 78,56 81,68 C83,74 81,81 74,86 C67,91 58,85 50,85 C42,85 33,91 26,86 C19,81 17,74 19,68 C22,56 35,47 50,47 Z" />
+</svg>
